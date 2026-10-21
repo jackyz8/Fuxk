@@ -1,0 +1,2 @@
+# GLORY HOST dashboard uses Python standard library only.
+# Put each hosted app's dependencies in workspace/<app>/requirements.txt.
